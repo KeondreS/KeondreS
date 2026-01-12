@@ -1,4 +1,4 @@
-<h1>Hello, My name is Keondre Sessoms!, an <a href="http://linkedin.com/in/keondre-sessoms-94ba00272">IT Professional</a></h1>
+<h1>Hello, My name is Keondre Sessoms!, an <a href="http://linkedin.com/in/keondre-sessoms-94ba00272">IT Professional!</a></h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
