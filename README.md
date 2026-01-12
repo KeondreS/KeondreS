@@ -12,4 +12,4 @@
 
 <h2>🤳Connect with me:</h2>
 
-[linkedin]: https://linkedin.com/in/Josh
+[linkedin]: https://www.linkedin.com/in/keondre-sessoms-94ba00272?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
