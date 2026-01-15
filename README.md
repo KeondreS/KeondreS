@@ -14,7 +14,7 @@
 - <b>Active Directory</b>
 	- [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
 	- [Using DNS]
-	- [Network File Shares and Permissions]
+	- [Network File Shares and Permissions](https://github.com/KeondreS/Network-File-Shares-and-Permissions)
 
 <h2>🤳Connect with me:</h2>
 
