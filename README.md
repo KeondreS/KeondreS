@@ -7,13 +7,12 @@
   - [osTicket: Post-Installation Configuration](https://github.com/joshmadakorcc/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
 - <b>Microsoft Azure</b>
-	- [Setting up a Virtual Machine and using Remote Desktop]
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
+	- [Setting up a Virtual Machine and using Remote Desktop](https://github.com/KeondreS/Setting-up-a-Virtual-Machine-and-using-Remote-Desktop)
 - <b>Installing and using a VPN
-	- [Proton VPN: Installation and usage]
+	- [Proton VPN: Installation and usage](https://github.com/KeondreS/Installing-and-using-a-VPN)
 - <b>Active Directory</b>
-	- [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
-	- [Using DNS]
+	- [Configuring On-premises Active Directory within Azure VMs](https://github.com/KeondreS/Configuring-On-premises-Active-Directory-within-Azure-VMs)
+	- [Using DNS](https://github.com/KeondreS/Using-DNS)
 	- [Network File Shares and Permissions](https://github.com/KeondreS/Network-File-Shares-and-Permissions)
 
 <h2>🤳Connect with me:</h2>
